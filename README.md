@@ -34,9 +34,9 @@ Usa and United kingdom own the best ranked universities.
 Times have more consistent indicators than CWUR and Shanghai. 
 There is no suspicious favoritism based on countries.
  # Storyboard 
- the link : https://public.tableau.com/app/profile/karima.rahmouni/viz/Book2_17360570951870/Story1
+ The link : https://public.tableau.com/app/profile/karima.rahmouni/viz/Book2_17360570951870/Story1
  
- this storyboard doesn’t contain every step you took as part of the analysis—only those relevant to the final results.
+ This storyboard doesn’t contain every step you took as part of the analysis—only those relevant to the final results.
 
 
 
