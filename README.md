@@ -38,7 +38,6 @@ There is no suspicious favoritism based on countries.
  
  this storyboard doesn’t contain every step you took as part of the analysis—only those relevant to the final results.
 
-![image](https://github.com/user-attachments/assets/7b57bf76-d42a-4635-a56e-43e4b2b4b025)
 
 
 
