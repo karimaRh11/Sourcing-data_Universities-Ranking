@@ -35,6 +35,7 @@ Times have more consistent indicators than CWUR and Shanghai.
 There is no suspicious favoritism based on countries.
  # Storyboard 
  the link : https://public.tableau.com/app/profile/karima.rahmouni/viz/Book2_17360570951870/Story1
+ 
  this storyboard doesn’t contain every step you took as part of the analysis—only those relevant to the final results.
 
 ![image](https://github.com/user-attachments/assets/7b57bf76-d42a-4635-a56e-43e4b2b4b025)
